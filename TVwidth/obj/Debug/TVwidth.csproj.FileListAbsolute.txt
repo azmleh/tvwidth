@@ -1,0 +1,15 @@
+d:\documents\visual studio 2015\Projects\TVwidth\TVwidth\bin\Debug\TVwidth.exe.config
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\bin\Debug\TVwidth.exe.config
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\bin\Debug\TVwidth.exe
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\bin\Debug\TVwidth.pdb
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\App.g.cs
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth_MarkupCompile.cache
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth_MarkupCompile.lref
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\MainWindow.baml
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth.g.resources
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth.Properties.Resources.resources
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth.csproj.GenerateResource.Cache
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth.exe
+D:\YandexDisk\Develop\C#\TVwidth\TVwidth\obj\Debug\TVwidth.pdb
